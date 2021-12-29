@@ -6,7 +6,7 @@
 
 - 🏫 Currently completing my B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
 - 🌱 I'm a **MERN Stack Developer** at Fn Software and Institute.
-- 💻 Most used code `console.log("Hello worl")`
+- 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
 - 📫 My Portfolio: [Hasanul Haque Banna](hasanulhaquebanna.com)
 
