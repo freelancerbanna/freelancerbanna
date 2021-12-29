@@ -1,7 +1,7 @@
 # Hi <img src="hello.gif" width="28px" alt="hi">, I am [Hasanul Haque Banna](hasanulhaquebanna.com)
 
 
-![Github Cover](portfolio.png)
+![Github Cover](porfolio.png)
 ### Know about me
 
 - 🏫 Currently completing my B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
