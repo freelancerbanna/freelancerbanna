@@ -45,6 +45,8 @@
 [![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](#)
 [![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](#)
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
+[![Framer Badge](	https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)](#)
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Django Rest Badge](	https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)](#)
