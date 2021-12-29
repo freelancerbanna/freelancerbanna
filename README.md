@@ -1,4 +1,4 @@
-# Hi <img src="hello.gif" width="28px" alt="hi">, I am [Hasanul Haque Banna](hasanulhaquebanna.com)
+# Hi <img src="hello.gif" width="28px" alt="hi">, I am [Hasanul Haque Banna](https://hasanulhaquebanna.com)
 
 
 ![Github Cover](porfolio.png)
@@ -8,7 +8,7 @@
 - 🌱 I'm a **MERN Stack Developer** at Fn Software and Institute.
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
-- 📫 My Portfolio: [Hasanul Haque Banna](hasanulhaquebanna.com)
+- 📫 My Portfolio: [Hasanul Haque Banna](https://hasanulhaquebanna.com)
 
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=freelancerbanna.freelancerbanna)
