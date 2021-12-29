@@ -42,6 +42,7 @@
 [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](#)
+[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
