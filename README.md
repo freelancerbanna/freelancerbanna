@@ -1,4 +1,4 @@
-# Hi <img src="hello.gif" width="28px" alt="hi">, I am [Hasanul Haque Banna](https://hasanulhaquebanna.com)
+# <h1 align="center">Hi <img src="hello.gif" width="28px" alt="hi"><br/> <strong>Welcome<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></strong><br/> I am [Hasanul Haque Banna](https://hasanulhaquebanna.com)</h1>
 
 
 ![Github Cover](porfolio.png)
@@ -6,6 +6,7 @@
 
 - 🏫 Currently completing my B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
 - 🌱 I'm a **MERN Stack Developer** at Fn Software and Institute.
+- 💬 Ask me about **React, JavaScript, Node JS, React native, Python, Django**
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
 - 📫 My Portfolio: [Hasanul Haque Banna](https://hasanulhaquebanna.com)
