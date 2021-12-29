@@ -2,6 +2,11 @@
 
 
 ![Github Cover](porfolio.png)
+
+![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=freelancerbanna.freelancerbanna)
+![Profile Follower Count](https://img.shields.io/github/followers/freelancerbanna.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
+
+
 ### Know about me
 
 - 🏫 Currently completing my B.A degree of English Literature from [Rajshahi Government City College](https://rgcc.ac.bd)
@@ -10,12 +15,6 @@
 - 💻 Most used code `console.log("Hello world")`
 - 😂 Fun Fact: I enjoy programming and debugging problem also a non-technical psychiatrist
 - 📫 My Portfolio: [Hasanul Haque Banna](https://hasanulhaquebanna.com)
-
-
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=freelancerbanna.freelancerbanna)
-
-![Profile Follower Count](https://img.shields.io/github/followers/freelancerbanna.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
-
 
 
 ## 🚀 Wanna connect with me?
