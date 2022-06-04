@@ -1,8 +1,5 @@
 # <h1 align="center">Hi <img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
 
-
-![Github Cover](porfolio.png)
-
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=freelancerbanna.freelancerbanna)
 ![Profile Follower Count](https://img.shields.io/github/followers/freelancerbanna.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 
