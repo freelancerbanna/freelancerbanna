@@ -76,3 +76,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freelancerbanna&layout=compact&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerbanna&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freelancerbanna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&layout=compact&show_icons=true&theme=radical)](https://git.io/streak-stats)
