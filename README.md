@@ -1,4 +1,4 @@
-# <h1 align="center">Hi <img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com)  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+# <h1 align="center">Hi <img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
 
 
 ![Github Cover](porfolio.png)
