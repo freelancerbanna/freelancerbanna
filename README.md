@@ -1,4 +1,4 @@
-# <h1 align="center">Hi <img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
+# <h1 align="center"><img src="hello.gif" width="28px" alt="hi"><br/> Me: [Hasanul Haque Banna](https://hasanulhaquebanna.com) </h1>
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=freelancerbanna.freelancerbanna)
 ![Profile Follower Count](https://img.shields.io/github/followers/freelancerbanna.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
@@ -72,7 +72,7 @@
 
 
 ##  <h1 align="center">GITHUB STATS</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freelancerbanna&layout=compact&show_icons=true&theme=radical)
+<h1 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freelancerbanna&layout=compact&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freelancerbanna&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&layout=compact&show_icons=true&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerbanna&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancerbanna&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</h1>
 
